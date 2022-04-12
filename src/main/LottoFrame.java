@@ -191,6 +191,8 @@ public class LottoFrame extends JFrame {
 				if (lastIndex >= 0) {
 					list.ensureIndexIsVisible(lastIndex);
 				}
+				
+				
 			}
 		});
 	}
